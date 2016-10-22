@@ -1,0 +1,41 @@
+body{
+    font-family: "Comic Sans MS", serif, sans-serif;
+}
+div#wrapper{
+    width: 450px;
+    height: 650px;
+    border-radius: 20px;
+    border: double;
+    border-color: blueviolet;
+    margin: auto;
+}
+h1{
+    color: aqua;
+}
+table{
+    border: dashed;
+    border-color: blue;
+    width: 450px;
+    height: 550px;
+    text-align: center;
+}
+td{
+    width: 200px;
+    height: 220px;
+    border: dotted;
+    border-color: cadetblue;
+    border-radius: 10px;
+}
+a:visited:hover{
+    color: cornflowerblue;
+}
+a{
+    text-decoration: none;
+}
+a:visited{
+    color: blue;
+}
+img.galery{
+    max-width: 420px;
+    max-height: 450px;
+}
